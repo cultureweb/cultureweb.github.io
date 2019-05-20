@@ -4,7 +4,7 @@
 
 CSS3 GitHub Buttons helps you easily create GitHub-style buttons from links, buttons, and inputs.
 
-Example: [cultureweb.github.io/styling-buttons-css3/](http://cultureweb.github.io/styling-buttons-css3/)
+Example: [cultureweb.github.io/](http://cultureweb.github.io/)
 
 
 ## Buttons ##
